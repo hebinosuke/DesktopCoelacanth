@@ -46,6 +46,11 @@ Find DesktopCoelacanth in the System Tray Icons on the taskbar and **right click
 3. Press `Win + R` again and enter `shell:startup`.
 4. Move the shortcut to the displayed folder.
 
+## Uninstall
+Press windows key and search for `DesktopCoelacanth` and select `right-click` > `Uninstall`.  
+If you don't need it, you can delete the temporary folder in the following path.  
+`C:\Users\[UserName]\AppData\LocalLow\DesktopCoelacanthProject`
+
 ## Privacy Policy
 1. This app just runs the exe file inside this package and saves the configuration file, temporary files and logs in the user's AppData folder.
 2. This app does not collect user's personal information.
@@ -104,6 +109,11 @@ PCのパフォーマンスにより、起動までに数分かかる場合があ
 2. DesktopCoelacanthを探し、`右クリック`(+ Shiftキー) > `ショートカットの作成`を選択します。
 3. 再度`Win + R`を押し、`shell:startup`と入力して実行します。
 4. 表示されるフォルダに、先程のデスクトップに作成されたショートカットを移動します。
+
+## アンインストール
+Windowsキーを押して、`DesktopCoelacanth`を検索し、`右クリック` > `アンインストール`を選択します。  
+不要な場合は、次のパスの一時フォルダを削除しても構いません。  
+`C:\Users\[UserName]\AppData\LocalLow\DesktopCoelacanthProject`
 
 ## プライバシーポリシー
 1. このアプリはパッケージ内のexeファイルを実行し、構成ファイル、一時ファイル、およびログをユーザーのAppDataフォルダに保存します。

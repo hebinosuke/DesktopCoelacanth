@@ -64,7 +64,8 @@ If you don't need it, you can delete the temporary folder in the following path.
 4. Email to `kokume01@gmail.com` for inquiries.
 
 <div id="jp">
-
+<div>
+  
 # DesktopCoelacanth(日本語)
 
 ## 概要
@@ -125,5 +126,4 @@ Windowsキーを押して、`DesktopCoelacanth`を検索し、`右クリック` 
 1. 本製品によって生じた如何なる損害については責任を負いかねます。
 2. Windows10のSモードでは正常に動作しない場合があります。
 3. 終了しても壁紙が復元しない場合は、`Win + Tab`を押して壁紙を更新してください。
-4. お問い合わせは`kokume01@gmail.com`にメールをしてください。
-<div>
+4. お問い合わせは`kokume01@gmail.com`までメールをお願いします。

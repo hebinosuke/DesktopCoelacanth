@@ -1,7 +1,7 @@
 # DesktopCoelacanth
 <img src="https://github.com/hebinosuke/DesktopCoelacanth/blob/images/images/coelacanth_icon.png" width="48"> DesktopCoelacanth for Windows10  
 <br>
-[README(日本語)](#jp)
+[README(日本語)](#desktopcoelacanth日本語)
 
 ## About
 This is an app that allows coelacanth to swim in the desktop screen of Windows10.  
@@ -63,9 +63,7 @@ If you don't need it, you can delete the temporary folder in the following path.
 3. If the wallpaper does not recover when finished, press `Win + Tab` to update the wallpaper.
 4. Email to `kokume01@gmail.com` for inquiries.
 
-<div id="jp">
-<div>
-  
+----
 # DesktopCoelacanth(日本語)
 
 ## 概要
